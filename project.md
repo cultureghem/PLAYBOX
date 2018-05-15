@@ -1,7 +1,7 @@
 ---
 object_name: Mobile Kitchen DRISS
 designer: FORS
-builder: Team CULTUREGHEM
+builder: Team CULTUREGHEM (assembly) & Recyclart (metal piece) & Fablab Brussels (CNC cutting)
 category: Mobile Kitchen
 overall_size: 1660 x 620 x 1000 mm
 creation_date: 2014-01-01
